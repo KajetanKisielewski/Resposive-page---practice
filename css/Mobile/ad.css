@@ -1,0 +1,15 @@
+.advertisement {
+    background-color: var(--color-delta);
+}
+
+.advertisement__heading {
+    margin-top: 10rem;
+    padding: 1.5rem 0;
+    font-size: 5rem;
+    font-weight: normal;
+    color: var(--color-alfa);
+}
+
+.advertisement__content {
+    margin-bottom: 10rem;
+}
