@@ -28,12 +28,10 @@
     --color-subscription-3: rgb(232, 252, 241);
 }
 
-.container {
-    margin: 0 auto;
-}
-
 .wrap {
     display: grid;
     grid-template-columns: repeat(12, 1fr);
     grid-template-rows: repeat(7, minmax(min-content, max-content));
+    margin: 0 auto;
+    overflow: hidden;
 }
