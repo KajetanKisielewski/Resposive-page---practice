@@ -13,7 +13,7 @@
 
 .header__logo {
     padding: 3rem 0;
-    z-index: 3;
+    z-index: 2;
 }
 
 /* HAMBURGER MENU  */
@@ -95,7 +95,7 @@
 }
 
 .nav__item--mobile:first-child {
-    margin-top: 8rem;
+    margin-top: 6rem;
 }
 
 .nav__item--mobile {
