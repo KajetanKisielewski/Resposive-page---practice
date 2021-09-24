@@ -46,7 +46,7 @@ Breakpoints:
 
 ### Links:
 
-- Code: [See my code](https://github.com/KajetanKisielewski/task-html-and-css-rwd)
+- Code: [See my code](https://github.com/KajetanKisielewski/Resposive-page--project)
 - Live: [Check it out](https://kajetankisielewski.github.io/task-html-and-css-rwd/)
 
 
